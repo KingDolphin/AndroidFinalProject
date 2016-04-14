@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Final Project</string>
+    <string name="registration_activity_name">Registration</string>
+
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="retype_password_hint">Re-type Password</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="log_in_button_text">Log In</string>
+    <string name="sign_up_button_text">Register</string>
+    <string name="forgot_password_button_text">Password?</string>
+    <string name="remember_password_text">Remember Password</string>
+
+    <string name="icon_desc">The icon for the app</string>
+    <string name="name_icon_desc">The icon for name</string>
+    <string name="username_icon_desc">The icon for username</string>
+    <string name="password_icon_desc">The icon for password</string>
+    <string name="email_icon_desc">The icon for email</string>
+    <string name="background_desc">Background</string>
+
+</resources>
